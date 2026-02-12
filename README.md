@@ -45,6 +45,15 @@ Each file contains:
 ---
 
 ## 📚 Topics Covered
+## 📚 Topics Covered
+
+| Category              | Concepts Covered |
+|-----------------------|------------------|
+| 🔹 Basics             | `SELECT`, `FROM`, `DISTINCT`, `AS`, `LIMIT` |
+| 🔹 Filtering & Sorting| `WHERE`, `AND`, `OR`, `NOT`, `ORDER BY`, `BETWEEN`, `IN`, `NOT IN`, `LIKE` |
+| 🔹 Aggregations       | `COUNT`, `SUM`, `AVG`, `MIN`, `MAX`, `GROUP BY`, `HAVING` |
+| 🔹 Joins              | `LEFT JOIN`, `RIGHT JOIN`, `INNER JOIN` |
+| 🔹 Advanced Logic     | `CASE`, Category Creation, Multi-table Queries |
 
 ### 🔹 Basics
 - `SELECT`
