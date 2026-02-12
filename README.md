@@ -45,7 +45,6 @@ Each file contains:
 ---
 
 ## 📚 Topics Covered
-## 📚 Topics Covered
 
 | Category              | Concepts Covered |
 |-----------------------|------------------|
@@ -55,46 +54,6 @@ Each file contains:
 | 🔹 Joins              | `LEFT JOIN`, `RIGHT JOIN`, `INNER JOIN` |
 | 🔹 Advanced Logic     | `CASE`, Category Creation, Multi-table Queries |
 
-### 🔹 Basics
-- `SELECT`
-- `FROM`
-- `DISTINCT`
-- `AS` (aliasing)
-- `LIMIT`
-
-### 🔹 Filtering & Sorting
-- `WHERE`
-- `AND` / `OR` / `NOT`
-- `ORDER BY`
-- `BETWEEN`
-- `IN` / `NOT IN`
-- `LIKE`
-
-### 🔹 Aggregations
-- `COUNT`
-- `SUM`
-- `AVG`
-- `MIN`
-- `MAX`
-- `GROUP BY`
-- `HAVING`
-
-### 🔹 Joins
-- `LEFT JOIN`
-- `RIGHT JOIN`
-- `INNER JOIN`
-
-### 🔹 Advanced Logic
-- `CASE` statements
-- Category creation
-- Multi-table relational queries
-
----
-
-## 🛠 Tools Used
-
-- MySQL
-- MySQL Workbench
 
 ---
 
